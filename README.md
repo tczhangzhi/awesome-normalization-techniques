@@ -44,9 +44,30 @@ Any addition or bug feel free to open an issue or pull requests.
   - Zhuliang Yao, Yue Cao, Shuxin Zheng, Gao Huang, Stephen Lin
   - [[Paper](https://arxiv.org/abs/2002.05712)]
   - [[Python Reference](https://github.com/hlld/cross-iteration-batch_normalization)]
+- **SEAN: Image Synthesis with Semantic Region-Adaptive Normalization (CVPR 2020)**
+  - Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka
+  - [[Paper](https://arxiv.org/abs/1911.12861)]
+  - [[Python Reference](https://github.com/ZPdesu/SEAN)]
 
 ## 2019
 
+- **Generalized Batch Normalization: Towards Accelerating Deep Neural Networks (AAAI 2019)**
+  - Xiaoyong Yuan, Zheng Feng, Matthew Norton, Xiaolin Li
+  - [[Paper](https://arxiv.org/abs/1812.03271)]
+- **Split Batch Normalization: Improving Semi-Supervised Learning under Domain Shift**
+  - Michał Zając, Konrad Zolna, Stanisław Jastrzębski
+  - [[Paper](https://arxiv.org/abs/1904.03515)]
+- **Instance Enhancement Batch Normalization: an Adaptive Regulator of Batch Noise (AAAI 2019)**
+  - Senwei Liang, Zhongzhan Huang, Mingfu Liang, Haizhao Yang
+  - [[Paper](https://arxiv.org/abs/1908.04008)]
+  - [[Python Reference](https://github.com/gbup-group/IEBN)]
+- **Channel Normalization in Convolutional Neural Network avoids Vanishing Gradients (ICML 2019)**
+  - Zhenwei Dai, Reinhard Heckel
+  - [[Paper](https://openreview.net/pdf?id=rJxBv4r22V)]
+  - [[Python Reference](https://github.com/MLI-lab/channel_normalization)]
+- **Unpaired Image Translation via Adaptive Convolution-based Normalization**
+  - Wonwoong Cho, Kangyeol Kim, Eungyeup Kim, Hyunwoo J. Kim, Jaegul Choo
+  - [[Paper](https://arxiv.org/abs/1911.13271)]
 - **EvalNorm: Estimating Batch Normalization Statistics for Evaluation (ICCV 2019)**
   - Saurabh Singh, Abhinav Shrivastava
   - [[Paper](https://arxiv.org/abs/1904.06031)]
