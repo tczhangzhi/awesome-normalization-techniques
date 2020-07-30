@@ -29,7 +29,6 @@ Any addition or bug feel free to open an issue or pull requests.
 - **Four Things Everyone Should Know to Improve Batch Normalization**
   - Cecilia Summers, Michael J. Dinneen
   - [[Paper](https://arxiv.org/abs/1906.03548)]
-  - [[Python Reference](about:blank)]
 - **Region Normalization for Image Inpainting (AAAI 2020)**
   - Tao Yu, Zongyu Guo, Xin Jin, Shilin Wu, Zhibo Chen, Weiping Li, Zhizheng Zhang, Sen Liu
   - [[Paper](https://arxiv.org/pdf/1911.10375)]
@@ -177,7 +176,6 @@ Any addition or bug feel free to open an issue or pull requests.
 - **Weight Normalization: a Simple Reparameterization to Accelerate Training of Deep Neural Networks (NIPS 2016)**
   - Tim Salimans, Diederik P. Kingma
   - [[Paper](https://arxiv.org/abs/1602.07868)]
-  - [[Python Reference](about:blank)]
 
 ## 2015
 
