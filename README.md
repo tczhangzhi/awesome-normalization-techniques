@@ -48,9 +48,19 @@ Any addition or bug feel free to open an issue or pull requests.
   - Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka
   - [[Paper](https://arxiv.org/abs/1911.12861)]
   - [[Python Reference](https://github.com/ZPdesu/SEAN)]
+- **Evolving Normalization-Activation Layers**
+  - Hanxiao Liu, Andrew Brock, Karen Simonyan, Quoc V. Le
+  - [[Paper](https://arxiv.org/abs/2004.02967)]
 
 ## 2019
 
+- **Mean Spectral Normalization of Deep Neural Networks for Embedded Automation**
+  - Anand Krishnamoorthy Subramanian, Nak Young Chong
+  - [[Paper](https://arxiv.org/abs/1907.04003)]
+  - [[Python Reference](https://github.com/AntixK/mean-spectral-norm)]
+- **An Empirical Study of Batch Normalization and Group Normalization in Conditional Computation**
+  - Vincent Michalski, Vikram Voleti, Samira Ebrahimi Kahou, Anthony Ortiz, Pascal Vincent, Chris Pal, Doina Precup
+  - [[Paper](https://arxiv.org/pdf/1908.00061.pdf)]
 - **Generalized Batch Normalization: Towards Accelerating Deep Neural Networks (AAAI 2019)**
   - Xiaoyong Yuan, Zheng Feng, Matthew Norton, Xiaolin Li
   - [[Paper](https://arxiv.org/abs/1812.03271)]
@@ -97,7 +107,7 @@ Any addition or bug feel free to open an issue or pull requests.
 - **Dynamic Instance Normalization for Arbitrary**
   - Yongcheng Jing, Xiao Liu, Yukang Ding, Xinchao Wang, Errui Ding, Mingli Song, Shilei Wen
   - [[Paper](https://arxiv.org/abs/1911.06953)]
-- **Semantic Image Synthesis with Spatially-Adaptive  (CVPR 2019)**
+- **Semantic Image Synthesis with Spatially-Adaptive Normalization (CVPR 2019)**
   - Taesung Park, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu
   - [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Park_Semantic_Image_Synthesis_With_Spatially-Adaptive_Normalization_CVPR_2019_paper.pdf)]
   - [[Python Reference](https://github.com/taki0112/SPADE-Tensorflow)]
