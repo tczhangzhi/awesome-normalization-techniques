@@ -118,12 +118,12 @@ Any addition or bug feel free to open an issue or pull requests.
 - **Do Normalization Layers in a Deep ConvNet Really Need to Be Distinct?**
   - Ping Luo, Zhanglin Peng, Jiamin Ren, Ruimao Zhang
   - [[Paper](https://arxiv.org/abs/1811.07727)]
-- **L1-Norm Batch Normalization for Efficient Training of Deep Neural Networks (Conference Placeholder)**
+- **L1-Norm Batch Normalization for Efficient Training of Deep Neural Networks (TNNLS)**
   - Shuang Wu , Guoqi Li, Lei Deng, Liu Liu, Dong Wu, Yuan Xie, Luping Shi
-  - [[Paper](about:blank)]
-- **In-Place Activated BatchNorm for Memory-Optimized Training of DNNs (TNNLS 2018)**
-  - Samuel Rota Bulò, Lorenzo Porzi, Peter Kontschieder
   - [[Paper](https://arxiv.org/abs/1802.09769)]
+- **In-Place Activated BatchNorm for Memory-Optimized Training of DNNs (CVPR 2018)**
+  - Samuel Rota Bulò, Lorenzo Porzi, Peter Kontschieder
+  - [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/html/Bulo_In-Place_Activated_BatchNorm_CVPR_2018_paper.html9)]
   - [[Python Reference](https://github.com/mapillary/inplace_abn)]
 - **Group Normalization (ECCV 2018)**
   - Yuxin Wu, Kaiming He
