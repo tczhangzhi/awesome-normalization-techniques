@@ -8,6 +8,13 @@ Any addition or bug feel free to open an issue or pull requests.
 
 ## 2020
 
+- **A New Look at Ghost Normalization**
+  - Neofytos Dimitriou, Ognjen Arandjelovic
+  - [[Paper](https://arxiv.org/abs/2007.08554)]
+- **TaskNorm: Rethinking Batch Normalization for Meta-Learning (ICML 2020)**
+  - John Bronskill, Jonathan Gordon, James Requeima, Sebastian Nowozin, Richard E Turner
+  - [[Paper](https://icml.cc/virtual/2020/poster/6200)]
+  - [[Python Reference](https://github.com/cambridge-mlg/cnaps)]
 - **Towards Stabilizing Batch Statistics in BackWard Propagation of Batch Normalization (ICLR 2020)**
   - Junjie Yan, Ruosi Wan, Xiangyu Zhang, Wei Zhang, Yichen Wei, Jian Sun
   - [[Paper](https://arxiv.org/abs/2001.06838)]
@@ -25,7 +32,6 @@ Any addition or bug feel free to open an issue or pull requests.
 - **Knowledge Distillation via Adaptive Instance Normalization**
   - Jing Yang, Brais Martinez, Adrian Bulat, and Georgios Tzimiropoulos
   - [[Paper](https://arxiv.org/abs/2003.04289)]
-  - [[Python Reference](about:blank)]
 - **Four Things Everyone Should Know to Improve Batch Normalization**
   - Cecilia Summers, Michael J. Dinneen
   - [[Paper](https://arxiv.org/abs/1906.03548)]
@@ -137,6 +143,10 @@ Any addition or bug feel free to open an issue or pull requests.
 
 ## 2018
 
+- **Decorrelated Batch Normalization (CVPR 2018)**
+  - Lei Huang, Dawei Yang, Bo Lang, Jia Deng
+  - [[Paper](https://arxiv.org/abs/1804.08450)]
+  - [[Lua Reference](https://github.com/princeton-vl/DecorrelatedBN)]
 - **MegDet: A Large Mini-Batch Object Detector (CVPR 2018)**
   - Chao Peng, Tete Xiao, Zeming Li, Yuning Jiang, Xiangyu Zhang, Kai Jia, Gang Yu, Jian Sun
   - [[Paper](https://arxiv.org/abs/1711.07240)]
