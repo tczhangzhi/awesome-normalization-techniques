@@ -73,7 +73,7 @@ Any addition or bug feel free to open an issue or pull requests.
 - **Split Batch Normalization: Improving Semi-Supervised Learning under Domain Shift**
   - Michał Zając, Konrad Zolna, Stanisław Jastrzębski
   - [[Paper](https://arxiv.org/abs/1904.03515)]
-- **Instance Enhancement Batch Normalization: an Adaptive Regulator of Batch Noise (AAAI 2019)**
+- **Instance Enhancement Batch Normalization: an Adaptive Regulator of Batch Noise (AAAI 2020)**
   - Senwei Liang, Zhongzhan Huang, Mingfu Liang, Haizhao Yang
   - [[Paper](https://arxiv.org/abs/1908.04008)]
   - [[Python Reference](https://github.com/gbup-group/IEBN)]
