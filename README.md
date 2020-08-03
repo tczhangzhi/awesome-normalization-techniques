@@ -15,6 +15,10 @@ Any addition or bug feel free to open an issue or pull requests.
   - John Bronskill, Jonathan Gordon, James Requeima, Sebastian Nowozin, Richard E Turner
   - [[Paper](https://icml.cc/virtual/2020/poster/6200)]
   - [[Python Reference](https://github.com/cambridge-mlg/cnaps)]
+- **Instance Enhancement Batch Normalization: an Adaptive Regulator of Batch Noise (AAAI 2020)**
+  - Senwei Liang, Zhongzhan Huang, Mingfu Liang, Haizhao Yang
+  - [[Paper](https://arxiv.org/abs/1908.04008)]
+  - [[Python Reference](https://github.com/gbup-group/IEBN)]
 - **Towards Stabilizing Batch Statistics in BackWard Propagation of Batch Normalization (ICLR 2020)**
   - Junjie Yan, Ruosi Wan, Xiangyu Zhang, Wei Zhang, Yichen Wei, Jian Sun
   - [[Paper](https://arxiv.org/abs/2001.06838)]
@@ -73,10 +77,6 @@ Any addition or bug feel free to open an issue or pull requests.
 - **Split Batch Normalization: Improving Semi-Supervised Learning under Domain Shift**
   - Michał Zając, Konrad Zolna, Stanisław Jastrzębski
   - [[Paper](https://arxiv.org/abs/1904.03515)]
-- **Instance Enhancement Batch Normalization: an Adaptive Regulator of Batch Noise (AAAI 2020)**
-  - Senwei Liang, Zhongzhan Huang, Mingfu Liang, Haizhao Yang
-  - [[Paper](https://arxiv.org/abs/1908.04008)]
-  - [[Python Reference](https://github.com/gbup-group/IEBN)]
 - **Channel Normalization in Convolutional Neural Network avoids Vanishing Gradients (ICML 2019)**
   - Zhenwei Dai, Reinhard Heckel
   - [[Paper](https://openreview.net/pdf?id=rJxBv4r22V)]
