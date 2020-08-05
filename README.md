@@ -64,6 +64,9 @@ Any addition or bug feel free to open an issue or pull requests.
 
 ## 2019
 
+- **Differentiable Dynamic Normalization for Learning Deep Representation (PMLR 2019/ICML 2019)**
+  - Ping Luo, Peng Zhanglin, Shao Wenqi, Zhang Ruimao, Ren Jiamin, Wu Lingyun
+  - [[Paper](http://proceedings.mlr.press/v97/luo19a.html)]
 - **Mean Spectral Normalization of Deep Neural Networks for Embedded Automation**
   - Anand Krishnamoorthy Subramanian, Nak Young Chong
   - [[Paper](https://arxiv.org/abs/1907.04003)]
